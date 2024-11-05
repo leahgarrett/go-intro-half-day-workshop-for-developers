@@ -26,6 +26,10 @@ Step by Step using a Weather API
 - http://bit.ly/ShortGolangWorkshop
 - Suggested solutions to this workshop https://github.com/leahgarrett/go-intro-workshop-wwc
 
+
+Use what you learnt from using the Weather API to call some free public APIs such as: 
+https://publicapis.io/icanhazdadjoke-api
+
 A step by step guide to learning Go:  
 [A Tour of Go](https://tour.golang.org/welcome/1)  
 
