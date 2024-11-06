@@ -40,7 +40,8 @@ Guided projects with Go
 https://gophercises.com/  
 https://courses.calhoun.io/courses/cor_gophercises  
 
-  
+Go by example, good reference for code examples  
+https://gobyexample.com/  
 
 <br />  
 
