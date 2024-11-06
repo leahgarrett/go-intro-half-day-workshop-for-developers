@@ -158,7 +158,7 @@ Go will make a new slice from our existing slice and the new element
 `letters = append(letters, "e")`
 
 
-## Make a fubnction for repeated code
+## Make a function for repeated code
 
 ```go
 package main
@@ -201,7 +201,7 @@ Extend the calculate example to loop 5 times asking for the radius and displayin
 
 Refactor to add a function for the calculation.
 
-How could you change the loop to continually ask for the temperature?
+How could you change the loop to continually ask for the radius?
 
 Create another version that uses a slice of values for radius.
 
