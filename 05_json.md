@@ -5,7 +5,7 @@ This example uses a `json` data file.
 
 Create a new repl and call it `json`
 
-Add a new file in your repl called `mock_data.json`
+Add a new file called `mock_data.json`
 Copy the contents of the following into the file 
 ```json
 {"users": 
@@ -86,7 +86,7 @@ Add these values to the `Println` in the `for` loop.
 
 Add an `if` to the `for` loop to only display users with names more then 5 letters.
 
-Update your mock data  by copying the 1000 record data file [./data/mock_data.json](/live/data/MOCK_DATA.json)
+Update your mock data  by copying the 1000 record data file [./data/mock_data.json](data/MOCK_DATA.json)
 
 Create a `for` loop that will display only Users from Australia.
 
