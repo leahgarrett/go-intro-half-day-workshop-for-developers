@@ -24,7 +24,7 @@ An introduction with lots of hands on practice
 Microsoft Reactor 11 York St, Sydney NSW 2000
 
 4.30pm finish
-5.00pm end
+
 
 <br />  
 
@@ -38,7 +38,7 @@ Microsoft Reactor 11 York St, Sydney NSW 2000
 
 ## Content for the workshop
 
-https://github.com/leahgarrett/go-intro-workshop
+https://github.com/leahgarrett/go-intro-half-day-workshop-for-developers
 
 
 <br />  

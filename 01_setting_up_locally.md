@@ -1,18 +1,7 @@
-
-# repl.it
-
-## What is an IDE?
-Integrate Development Environment
-- editor
-- syntax highlighting
-- spell check like error detection
-- run code
-
-<br>  
+ 
 
 ## The IDE we will be using
-- online IDE
-- no installation required
+- Visual Studio Code
 - Uses the same editor as Visual Studio Code
 
 <br>  
