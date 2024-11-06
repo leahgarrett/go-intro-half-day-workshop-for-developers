@@ -12,19 +12,21 @@ func TestNDISAgeCheck(t *testing.T) {
 		label string
 		out   bool
 	}{
-		{in: 64, label: "64", out: true},
-		{in: 65, label: "65", out: true},
-		{in: 6, label: "6", out: false},
-		{in: 7, label: "7", out: true},
-		{in: 24, label: "24", out: true},
+		{in: 64, out: true},
+		{in: 65, out: true},
+		{in: 6, out: false},
+		{in: 7, out: true},
+		{in: 24, out: false},
 	}
 
 	for _, tt := range agetests {
-		t.Run(tt.label, func(t *testing.T) {
+		label := fmt.Sprintf("%v", tt.in)
+
+		t.Run(label, func(t *testing.T) {
 			s := checkNDISAge(tt.in)
 
 			if s != tt.out {
-				t.Errorf("got %v, want %v", s, tt.out)
+				t.Errorf("%v: got %v, want %v", label, s, tt.out)
 			}
 		})
 	}
