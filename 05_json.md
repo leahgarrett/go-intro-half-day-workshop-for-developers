@@ -86,7 +86,7 @@ Add these values to the `Println` in the `for` loop.
 
 Add an `if` to the `for` loop to only display users with names more then 5 letters.
 
-Update your mock data  by copying the 1000 record data file [./data/mock_data.json](data/MOCK_DATA.json)
+Update your mock data  by copying the 1000 record data file [mock_data.json](./gophercon/json/mock_data.json)
 
 Create a `for` loop that will display only Users from Australia.
 
